@@ -2,7 +2,7 @@
 title: "Queen's Biology Student Funding Compared to Market Basket Measure (MBM) Line"
 author: Caelan Johnson
 output: pdf_document
-date: "2024-12-11"
+date: "`r Sys.Date()`"
 ---
 
 ```{r setup, include=FALSE}
@@ -49,7 +49,7 @@ In the GitHub repository you will find folders with the archived Queen's tuition
 
 ## Stipend data
 
-I received hard copies of records of the Biology department's graduate stipends from the previous Graduate Assistant, Joanne Surette (thank you Joanne!). I found the minimum stipend available for each year and used those as the datapoints for the stipend amounts, separating MSc from PhD where applicable. If I can, I will try to upload pictures of these documents to the GitHub.
+I received hard copies of records of the Biology department's graduate stipends from the previous Graduate Assistant, Joanne Surette (thank you Joanne!). I found the minimum stipend available for each year and used those as the datapoints for the stipend amounts, separating MSc from PhD where applicable. I've uploaded these documents as a PDF file to the GitHub in the "Grad Stipends" folder.
 
 For the most recent couple of years, I found the department's stipend information off the website (included below). I'm not aware of the archive of this information being available online, but will update if I learn more.
 
